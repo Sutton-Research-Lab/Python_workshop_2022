@@ -2,9 +2,9 @@
 
 **Lecturers**: R. Patrick Xian, Santosh Adhikari, Sourin Dey
 
-**Organizers**: Michael L. Myrick, Lee Hallman
+**Organizers**: Michael L. Myrick
 
-**Acknowledgements**: Jennifer Merkel, Christopher A. Sutton
+**Acknowledgements**: Lee Hallman, Christopher A. Sutton
 
 
 <br>
