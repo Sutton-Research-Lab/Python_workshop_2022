@@ -12,8 +12,8 @@
 
 Python basics, programming environment, software repositories
 
-* “Hello world!” script
 * distribution: Anaconda ([https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution))
+* “Hello world!” script
 * environment: Visual Studio Code ([https://code.visualstudio.com/](https://code.visualstudio.com/)), Jupyter ([https://jupyter.org/](https://jupyter.org/))
 * repositories: GitHub ([https://github.com/](https://github.com/)), PyPI ([https://pypi.org/](https://pypi.org/))
 * common data structures (numeric, string, list, tuple, dictionary) and their usage
