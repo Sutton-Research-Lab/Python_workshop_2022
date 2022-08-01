@@ -1,8 +1,8 @@
 **Host institution**: Department of Chemistry and Biochemistry, University of South Carolina
 
-**Lecturers**: R. Patrick Xian, Santosh Adhikari, Sourin Dey
-
 **Organizers**: Michael L. Myrick
+
+**Lecturers**: R. Patrick Xian, Santosh Adhikari, Sourin Dey
 
 **Acknowledgements**: Lee Hallman, Christopher A. Sutton
 
@@ -47,7 +47,7 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 **References**
 
 1. John D. Hunter, [Matplotlib: A 2D graphics environment](https://dl.acm.org/doi/10.1109/MCSE.2007.55), Computing in Science and Engineering (2007)
-2. Nicolas R. Rougier, [Scientific visualization book](https://github.com/rougier/scientific-visualization-book)
+2. Nicolas R. Rougier, [Scientific visualization book](https://github.com/rougier/scientific-visualization-book) (2021)
 3. [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
 4. Michael L. Waskom et al., [seaborn: statistical data visualization](https://doi.org/10.21105/joss.03021), Journal of Open Source Software (2021)
 5. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
