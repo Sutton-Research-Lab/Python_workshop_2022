@@ -23,7 +23,7 @@ Python basics, programming environment, software repositories
 * errors and their handling
 * basic file handling
 
-[Link to material - Day 1](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 1](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
 
 **References**
 
@@ -42,7 +42,7 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 - seaborn ([https://seaborn.pydata.org/](https://seaborn.pydata.org/))
 - pandas ([https://pandas.pydata.org/](https://pandas.pydata.org/))
 
-[Link to material - Day 2](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 2](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
 
 **References**
 
@@ -70,7 +70,7 @@ Advanced programming in Python
 - introduction to object-oriented programming (OOP) in Python ([https://realpython.com/python3-object-oriented-programming/](https://realpython.com/python3-object-oriented-programming/))
 - code profiling and debugging
 
-[Link to material - Day 3](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 3](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
 
 **References**
 
@@ -93,7 +93,7 @@ Common machine learning frameworks in Python
 - scikit-learn ([https://scikit-learn.org/](https://scikit-learn.org/))
 - pytorch ([https://pytorch.org/](https://pytorch.org/))
 
-[Link to material - Day 4](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 4](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
 
 **References**
 
@@ -118,7 +118,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 - ASE ([https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/))
 - molecular visualization tools
 
-[Link to material - Day 5](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 5](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
 
 **References**
 
