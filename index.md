@@ -45,11 +45,13 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 
 **References**
 
-1. John D. Hunter, [Matplotlib: A 2D graphics environment](https://dl.acm.org/doi/10.1109/MCSE.2007.55), Computing in Science and Engineering (2007)
-2. Nicolas R. Rougier, [Scientific visualization book](https://github.com/rougier/scientific-visualization-book) (2021)
-3. [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
-4. Michael L. Waskom et al., [seaborn: statistical data visualization](https://doi.org/10.21105/joss.03021), Journal of Open Source Software (2021)
-5. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+1. [Python functional programming tutorial](https://realpython.com/python-functional-programming/)
+2. David Mertz, [Functional Programming in Python](https://pepa.holla.cz/wp-content/uploads/2016/10/functional-programming-python.pdf), O'Reilly (2016)
+3. John D. Hunter, [Matplotlib: A 2D graphics environment](https://dl.acm.org/doi/10.1109/MCSE.2007.55), Computing in Science and Engineering (2007)
+4. Nicolas R. Rougier, [Scientific visualization book](https://github.com/rougier/scientific-visualization-book) (2021)
+5. [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
+6. Michael L. Waskom et al., [seaborn: statistical data visualization](https://doi.org/10.21105/joss.03021), Journal of Open Source Software (2021)
+7. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
 
 
 
