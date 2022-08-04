@@ -37,10 +37,9 @@ Python basics, programming environment, software repositories
 
 Data visualization and data wrangling with Python. Bring your own data, if possible!
 
-- functions in Python
+- functional programming in Python
 - matplotlib ([https://matplotlib.org/](https://matplotlib.org/))
 - seaborn ([https://seaborn.pydata.org/](https://seaborn.pydata.org/))
-- pandas ([https://pandas.pydata.org/](https://pandas.pydata.org/))
 
 [Link to material - Day 2](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
 
@@ -51,8 +50,6 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 3. [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
 4. Michael L. Waskom et al., [seaborn: statistical data visualization](https://doi.org/10.21105/joss.03021), Journal of Open Source Software (2021)
 5. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
-6. Wes McKenney, [Data Structures for Statistical Computing in Python](https://conference.scipy.org/proceedings/scipy2010/mckinney.html), Proceedings of the 9th Python in Science Conference (2009)
-7. [ODSC pandas workshop tutorials](https://github.com/stefmolin/pandas-workshop/tree/main/notebooks)
 
 
 
@@ -63,6 +60,7 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 Scientific Python software packages
 
 - numpy ([https://numpy.org/](https://numpy.org/))
+- pandas ([https://pandas.pydata.org/](https://pandas.pydata.org/))
 - scipy ([https://scipy.org/](https://scipy.org/))
 
 Advanced programming in Python
@@ -77,10 +75,12 @@ Advanced programming in Python
 1. Charles R. Harris et al., [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2), Nature (2020)
 2. [Numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
 3. Pauli Virtanen et al., [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2), Nature Methods (2020)
-4. [Scipy tutorial by phoenixNAP](https://phoenixnap.com/kb/scipy-tutorial)
-5. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
-6. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
-7. Brandon Rhodes, [Python design patterns](https://python-patterns.guide/)
+4. Wes McKenney, [Data Structures for Statistical Computing in Python](https://conference.scipy.org/proceedings/scipy2010/mckinney.html), Proceedings of the 9th Python in Science Conference (2009)
+5. [ODSC pandas workshop tutorials](https://github.com/stefmolin/pandas-workshop/tree/main/notebooks)
+6. [Scipy tutorial by phoenixNAP](https://phoenixnap.com/kb/scipy-tutorial)
+7. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
+8. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
+9. Brandon Rhodes, [Python design patterns](https://python-patterns.guide/)
 
 
 
