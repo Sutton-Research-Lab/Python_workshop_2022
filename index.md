@@ -17,7 +17,6 @@ Python basics, programming environment, software repositories
 * environment: Visual Studio Code ([https://code.visualstudio.com/](https://code.visualstudio.com/)), Jupyter ([https://jupyter.org/](https://jupyter.org/))
 * repositories: GitHub ([https://github.com/](https://github.com/)), PyPI ([https://pypi.org/](https://pypi.org/))
 * common data structures (numeric, string, list, tuple, dictionary) and their usage
-* variables and functions
 * basic mathematical and logical expressions
 * control flow
 * errors and their handling
@@ -38,6 +37,7 @@ Python basics, programming environment, software repositories
 
 Data visualization and data wrangling with Python. Bring your own data, if possible!
 
+- functions in Python
 - matplotlib ([https://matplotlib.org/](https://matplotlib.org/))
 - seaborn ([https://seaborn.pydata.org/](https://seaborn.pydata.org/))
 - pandas ([https://pandas.pydata.org/](https://pandas.pydata.org/))
