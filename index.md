@@ -14,10 +14,10 @@ Python basics, programming environment, software repositories
 
 * the Anaconda distribution of Python ([https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution))
 * “Hello world!” script
-* environment: Visual Studio Code ([https://code.visualstudio.com/](https://code.visualstudio.com/)), Jupyter ([https://jupyter.org/](https://jupyter.org/))
+* introduction to Jupyter ([https://jupyter.org/](https://jupyter.org/))
 * repositories: GitHub ([https://github.com/](https://github.com/)), PyPI ([https://pypi.org/](https://pypi.org/))
-* common data structures (numeric, string, list, tuple, dictionary) and their usage
-* basic mathematical and logical expressions
+* core data structures (numeric, string, list, tuple, dictionary) and their usage
+* composite data structures (named tuple, ordered dictionary)
 * control flow
 * errors and their handling
 * basic file handling
@@ -35,7 +35,7 @@ Python basics, programming environment, software repositories
 
 ### Day 2 – August 4th
 
-Data visualization and data wrangling with Python. Bring your own data, if possible!
+Functional programming and data visualization with Python. Bring your own data (BYOD), if possible!
 
 - functional programming in Python
 - matplotlib ([https://matplotlib.org/](https://matplotlib.org/))
@@ -59,16 +59,18 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 
 ### Day 3 – August 5th
 
-Scientific Python software packages
+Scientific and numeric Python software packages
 
 - numpy ([https://numpy.org/](https://numpy.org/))
 - pandas ([https://pandas.pydata.org/](https://pandas.pydata.org/))
+- operator ([https://docs.python.org/3/library/operator.html](https://docs.python.org/3/library/operator.html))
 - scipy ([https://scipy.org/](https://scipy.org/))
 
 Advanced programming in Python
 
+- some useful [built-in functions](https://www.tutorialsteacher.com/python/builtin-methods)
 - introduction to object-oriented programming (OOP) in Python ([https://realpython.com/python3-object-oriented-programming/](https://realpython.com/python3-object-oriented-programming/))
-- code profiling and debugging
+- layout of a Python program, [import](https://realpython.com/lessons/import-statement/) statements
 
 [Link to material - Day 3](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
 
@@ -80,9 +82,10 @@ Advanced programming in Python
 4. Wes McKenney, [Data Structures for Statistical Computing in Python](https://conference.scipy.org/proceedings/scipy2010/mckinney.html), Proceedings of the 9th Python in Science Conference (2009)
 5. [ODSC pandas workshop tutorials](https://github.com/stefmolin/pandas-workshop/tree/main/notebooks)
 6. [Scipy tutorial by phoenixNAP](https://phoenixnap.com/kb/scipy-tutorial)
-7. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
-8. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
-9. Brandon Rhodes, [Python design patterns](https://python-patterns.guide/)
+7. [Python operator module tutorial](https://florian-dahlitz.de/articles/introduction-to-pythons-operator-module)
+8. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
+9. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
+10. Brandon Rhodes, [Python design patterns](https://python-patterns.guide/)
 
 
 
@@ -94,6 +97,10 @@ Common machine learning frameworks in Python
 
 - scikit-learn ([https://scikit-learn.org/](https://scikit-learn.org/))
 - pytorch ([https://pytorch.org/](https://pytorch.org/))
+
+Using Python in an interactive development environemnt (IDE)
+
+- brief introduction to Virtu
 
 [Link to material - Day 4](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
 
