@@ -17,9 +17,9 @@ Python basics, programming environment, software repositories
 * introduction to Jupyter ([https://jupyter.org/](https://jupyter.org/))
 * repositories: GitHub ([https://github.com/](https://github.com/)), PyPI ([https://pypi.org/](https://pypi.org/))
 * core data structures (numeric, string, list, tuple, dictionary) and their usage
-* composite data structures (named tuple, ordered dictionary)
+* composite data structures ([named tuple](https://realpython.com/python-namedtuple/), [ordered dictionary](https://www.digitalocean.com/community/tutorials/python-ordereddict))
 * control flow
-* errors and their handling
+* errors and their [handling](https://blog.devgenius.io/python-error-handling-8bed3f5b5769)
 * basic file handling
 
 [Link to material - Day 1](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
