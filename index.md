@@ -1,8 +1,8 @@
-**Host institution**: Department of Chemistry and Biochemistry, University of South Carolina
+**Host institution**: Department of Chemistry and Biochemistry, University of South Carolina, Columbia, SC, USA
 
 **Organizers**: Michael L. Myrick
 
-**Lecturers**: R. Patrick Xian, Santosh Adhikari, Sourin Dey
+**Lecturers**: R. Patrick Xian (remote), Santosh Adhikari, Sourin Dey
 
 **Acknowledgements**: Lee Hallman, Christopher A. Sutton
 
