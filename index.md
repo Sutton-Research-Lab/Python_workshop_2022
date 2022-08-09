@@ -100,7 +100,7 @@ Common machine learning frameworks in Python
 
 Using Python in an interactive development environemnt (IDE)
 
-- brief introduction to Virtu
+- brief introduction to Virtual Studio Code
 
 [Link to material - Day 4](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
 
