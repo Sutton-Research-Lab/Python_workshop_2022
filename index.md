@@ -70,7 +70,7 @@ Advanced programming in Python
 
 - some useful [built-in functions](https://www.tutorialsteacher.com/python/builtin-methods)
 - introduction to object-oriented programming (OOP) in Python ([https://realpython.com/python3-object-oriented-programming/](https://realpython.com/python3-object-oriented-programming/))
-- layout of a Python program, [import](https://realpython.com/lessons/import-statement/) statements
+- layout of a Python program, including the [import](https://realpython.com/lessons/import-statement/) statements
 
 [Link to material - Day 3](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
 
