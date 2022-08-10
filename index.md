@@ -1,7 +1,5 @@
-**Host institution**: ```js
-                         && Department of Chemistry and Biochemistry,
-                         && University of South Carolina, Columbia, SC, USA
-                      ```
+**Host institution**: $\text{Department of Chemistry and Biochemistry,}\\
+                      \text{University of South Carolina, Columbia, SC, USA}$
 
 **Organizers**: Michael L. Myrick
 
