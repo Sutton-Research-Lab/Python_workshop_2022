@@ -1,5 +1,5 @@
 **Host institution**: Department of Chemistry and Biochemistry,<br>
-<code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code>University of South Carolina, Columbia, SC, USA
+<code>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</code>University of South Carolina, Columbia, SC, USA
 
 **Organizers**: Michael L. Myrick
 
