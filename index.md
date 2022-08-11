@@ -96,12 +96,13 @@ Advanced programming in Python
 2. [Numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
 3. Pauli Virtanen et al., [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2), Nature Methods (2020)
 4. Wes McKenney, [Data Structures for Statistical Computing in Python](https://conference.scipy.org/proceedings/scipy2010/mckinney.html), Proceedings of the 9th Python in Science Conference (2009)
-5. [ODSC pandas workshop tutorials](https://github.com/stefmolin/pandas-workshop/tree/main/notebooks)
-6. [Scipy tutorial by phoenixNAP](https://phoenixnap.com/kb/scipy-tutorial)
-7. [Python operator module tutorial](https://florian-dahlitz.de/articles/introduction-to-pythons-operator-module)
-8. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
-9. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
-10. Brandon Rhodes, [Python design patterns](https://python-patterns.guide/)
+5. Wes McKenney's online book [Pandas for Data Analysis](https://wesmckinney.com/book/) O'Reilly (3ed 2022)
+6. [ODSC pandas workshop tutorials](https://github.com/stefmolin/pandas-workshop/tree/main/notebooks)
+7. [Scipy tutorial by phoenixNAP](https://phoenixnap.com/kb/scipy-tutorial)
+8. [Python operator module tutorial](https://florian-dahlitz.de/articles/introduction-to-pythons-operator-module)
+9. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
+10. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
+11. Brandon Rhodes, [Python design patterns](https://python-patterns.guide/)
 
 
 
@@ -139,17 +140,18 @@ Using Python in an interactive development environemnt (IDE)
 
 ### Day 5 – August 9th
 
-**Topics to cover**
+**Lecture topics**
 
 Python packages for molecules and materials, focus on basic data structures and functionalities.
 
 - mendeleev ([https://github.com/lmmentel/mendeleev](https://github.com/lmmentel/mendeleev))
-- RDkit ([https://www.rdkit.org/](https://www.rdkit.org/))
+- RDkit ([https://www.rdkit.org/](https://www.rdkit.org/)) and molecular visualization
+- chemical name conversion using [cirpy](https://github.com/mcs07/CIRpy) and [pubchempy](https://github.com/mcs07/PubChemPy)
 - pymatgen ([https://pymatgen.org/](https://pymatgen.org/))
 - ASE ([https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/))
-- molecular visualization tools
+- molecular visualization in
 
-**Course materials**
+**Lecture materials**
 
 [Link to material - Day 5](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
 
