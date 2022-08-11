@@ -88,7 +88,7 @@ Advanced programming in Python
 
 **Lecture materials**
 
-[Link to material - Day 3](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
+[Day 3 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
 
 **References**
 
@@ -123,7 +123,7 @@ Using Python in an interactive development environemnt (IDE)
 
 **Lecture materials**
 
-[Link to material - Day 4](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
+[Day 4 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
 
 **References**
 
@@ -145,7 +145,7 @@ Using Python in an interactive development environemnt (IDE)
 Python packages for molecules and materials, focus on basic data structures and functionalities.
 
 - mendeleev ([https://github.com/lmmentel/mendeleev](https://github.com/lmmentel/mendeleev))
-- chemical name conversion using cirpy([https://github.com/mcs07/CIRpy](https://github.com/mcs07/CIRpy)) and pubchempy([https://github.com/mcs07/PubChemPy](https://github.com/mcs07/PubChemPy))
+- chemical name conversion using cirpy ([https://github.com/mcs07/CIRpy](https://github.com/mcs07/CIRpy)) and pubchempy ([https://github.com/mcs07/PubChemPy](https://github.com/mcs07/PubChemPy))
 - RDkit ([https://www.rdkit.org/](https://www.rdkit.org/)) and molecular visualization
 - pymatgen ([https://pymatgen.org/](https://pymatgen.org/))
 - ASE ([https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/))
@@ -153,7 +153,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 
 **Lecture materials**
 
-[Link to material - Day 5](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
+[Day 5 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
 
 **References**
 
