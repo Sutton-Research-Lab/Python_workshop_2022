@@ -11,6 +11,8 @@
 <br>
 ### Day 1 – August 3rd
 
+**Cover topics**
+
 Python basics, programming environment, software repositories
 
 * the Anaconda distribution of Python ([https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution))
@@ -26,7 +28,7 @@ Python basics, programming environment, software repositories
 **Course materials**
 
 [Day 1 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
-- Teaching notebooks: [Python basics](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Python_Basics.ipynb) and [Jupyter](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Jupyter.ipynb)
+- Teaching notebooks: [Python basics](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Python_Basics.ipynb) and [Jupyter](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Jupyter.ipynb) (optional material)
 - Exercise notebooks: [Exercise_01](https://github.com/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Exercises.ipynb)
 
 **References**
@@ -40,13 +42,18 @@ Python basics, programming environment, software repositories
 
 ### Day 2 – August 4th
 
-Functional programming and data visualization with Python. Bring your own data (BYOD), if possible!
+**Cover topics**
+
+Functional programming and data visualization with Python.<br>
+Bring your own data (BYOD), if possible!
 
 - functional programming in Python
 - matplotlib ([https://matplotlib.org/](https://matplotlib.org/))
 - seaborn ([https://seaborn.pydata.org/](https://seaborn.pydata.org/))
 
-[Link to material - Day 2](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
+**Course materials**
+
+[Day 2 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
 
 **References**
 
@@ -64,6 +71,8 @@ Functional programming and data visualization with Python. Bring your own data (
 
 ### Day 3 – August 5th
 
+**Cover topics**
+
 Scientific and numeric Python software packages
 
 - numpy ([https://numpy.org/](https://numpy.org/))
@@ -76,6 +85,8 @@ Advanced programming in Python
 - some useful [built-in functions](https://www.tutorialsteacher.com/python/builtin-methods)
 - introduction to object-oriented programming (OOP) in Python ([https://realpython.com/python3-object-oriented-programming/](https://realpython.com/python3-object-oriented-programming/))
 - layout of a Python program, including the [import](https://realpython.com/lessons/import-statement/) statements
+
+**Course materials**
 
 [Link to material - Day 3](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
 
@@ -98,6 +109,8 @@ Advanced programming in Python
 
 ### Day 4 – August 8th
 
+**Cover topics**
+
 Common machine learning frameworks in Python
 
 - scikit-learn ([https://scikit-learn.org/](https://scikit-learn.org/))
@@ -106,6 +119,8 @@ Common machine learning frameworks in Python
 Using Python in an interactive development environemnt (IDE)
 
 - brief introduction to Virtual Studio Code
+
+**Course materials**
 
 [Link to material - Day 4](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
 
@@ -124,6 +139,8 @@ Using Python in an interactive development environemnt (IDE)
 
 ### Day 5 – August 9th
 
+**Cover topics**
+
 Python packages for molecules and materials, focus on basic data structures and functionalities.
 
 - mendeleev ([https://github.com/lmmentel/mendeleev](https://github.com/lmmentel/mendeleev))
@@ -131,6 +148,8 @@ Python packages for molecules and materials, focus on basic data structures and 
 - pymatgen ([https://pymatgen.org/](https://pymatgen.org/))
 - ASE ([https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/))
 - molecular visualization tools
+
+**Course materials**
 
 [Link to material - Day 5](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
 
