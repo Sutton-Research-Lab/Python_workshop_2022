@@ -88,7 +88,7 @@ Advanced programming in Python
 
 **Lecture materials**
 
-[Day 3 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
+[Day 3 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
 
 **References**
 
