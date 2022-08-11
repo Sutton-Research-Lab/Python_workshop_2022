@@ -145,8 +145,8 @@ Using Python in an interactive development environemnt (IDE)
 Python packages for molecules and materials, focus on basic data structures and functionalities.
 
 - mendeleev ([https://github.com/lmmentel/mendeleev](https://github.com/lmmentel/mendeleev))
+- chemical name conversion using cirpy([https://github.com/mcs07/CIRpy](https://github.com/mcs07/CIRpy)) and pubchempy([https://github.com/mcs07/PubChemPy](https://github.com/mcs07/PubChemPy))
 - RDkit ([https://www.rdkit.org/](https://www.rdkit.org/)) and molecular visualization
-- chemical name conversion using [cirpy](https://github.com/mcs07/CIRpy) and [pubchempy](https://github.com/mcs07/PubChemPy)
 - pymatgen ([https://pymatgen.org/](https://pymatgen.org/))
 - ASE ([https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/))
 - molecular visualization in
