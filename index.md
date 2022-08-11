@@ -11,7 +11,7 @@
 <br>
 ### Day 1 – August 3rd
 
-**Cover topics**
+**Topics to cover**
 
 Python basics, programming environment, software repositories
 
@@ -42,7 +42,7 @@ Python basics, programming environment, software repositories
 
 ### Day 2 – August 4th
 
-**Cover topics**
+**Topics to cover**
 
 Functional programming and data visualization with Python.<br>
 Bring your own data (BYOD), if possible!
@@ -71,7 +71,7 @@ Bring your own data (BYOD), if possible!
 
 ### Day 3 – August 5th
 
-**Cover topics**
+**Topics to cover**
 
 Scientific and numeric Python software packages
 
@@ -109,7 +109,7 @@ Advanced programming in Python
 
 ### Day 4 – August 8th
 
-**Cover topics**
+**Topics to cover**
 
 Common machine learning frameworks in Python
 
@@ -139,7 +139,7 @@ Using Python in an interactive development environemnt (IDE)
 
 ### Day 5 – August 9th
 
-**Cover topics**
+**Topics to cover**
 
 Python packages for molecules and materials, focus on basic data structures and functionalities.
 
