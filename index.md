@@ -25,9 +25,9 @@ Python basics, programming environment, software repositories
 
 **Course materials**
 
-- [Day 1 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01) and online rendered Jupyter notebooks
-- [Python basics](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Python_Basics.ipynb)
-- [Jupyter](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Jupyter.ipynb)
+[Day 1 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
+- Teaching notebooks: [Python basics](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Python_Basics.ipynb) and [Jupyter](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Jupyter.ipynb)
+- Exercise notebooks: [Exercise_01](https://github.com/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Exercises.ipynb)
 
 **References**
 
