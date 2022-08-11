@@ -23,7 +23,9 @@ Python basics, programming environment, software repositories
 * errors and their [handling](https://blog.devgenius.io/python-error-handling-8bed3f5b5769)
 * basic file handling
 
-[Link to material - Day 1](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
+[Day 1 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01) and online rendered Jupyter notebooks
+- [Python basics](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Python_Basics.ipynb)
+- [Jupyter](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Jupyter.ipynb)
 
 **References**
 
