@@ -11,7 +11,7 @@
 <br>
 ### Day 1 – August 3rd
 
-**Topics to cover**
+**Lecture topics**
 
 Python basics, programming environment, software repositories
 
@@ -25,7 +25,7 @@ Python basics, programming environment, software repositories
 * errors and their [handling](https://blog.devgenius.io/python-error-handling-8bed3f5b5769)
 * basic file handling
 
-**Course materials**
+**Lecture materials**
 
 [Day 1 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
 - Teaching notebooks: [Python basics](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Python_Basics.ipynb) and [Jupyter](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Jupyter.ipynb) (optional material)
@@ -42,7 +42,7 @@ Python basics, programming environment, software repositories
 
 ### Day 2 – August 4th
 
-**Topics to cover**
+**Lecture topics**
 
 Functional programming and data visualization with Python.<br>
 Bring your own data (BYOD), if possible!
@@ -51,7 +51,7 @@ Bring your own data (BYOD), if possible!
 - matplotlib ([https://matplotlib.org/](https://matplotlib.org/))
 - seaborn ([https://seaborn.pydata.org/](https://seaborn.pydata.org/))
 
-**Course materials**
+**Lecture materials**
 
 [Day 2 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
 
@@ -71,7 +71,7 @@ Bring your own data (BYOD), if possible!
 
 ### Day 3 – August 5th
 
-**Topics to cover**
+**Lecture topics**
 
 Scientific and numeric Python software packages
 
@@ -86,7 +86,7 @@ Advanced programming in Python
 - introduction to object-oriented programming (OOP) in Python ([https://realpython.com/python3-object-oriented-programming/](https://realpython.com/python3-object-oriented-programming/))
 - layout of a Python program, including the [import](https://realpython.com/lessons/import-statement/) statements
 
-**Course materials**
+**Lecture materials**
 
 [Link to material - Day 3](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
 
@@ -109,7 +109,7 @@ Advanced programming in Python
 
 ### Day 4 – August 8th
 
-**Topics to cover**
+**Lecture topics**
 
 Common machine learning frameworks in Python
 
@@ -120,7 +120,7 @@ Using Python in an interactive development environemnt (IDE)
 
 - brief introduction to Virtual Studio Code
 
-**Course materials**
+**Lecture materials**
 
 [Link to material - Day 4](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
 
