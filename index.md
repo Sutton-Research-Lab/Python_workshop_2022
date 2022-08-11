@@ -27,7 +27,7 @@ Python basics, programming environment, software repositories
 
 **Lecture materials**
 
-[Day 1 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
+[Day 1 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
 - Teaching notebooks: [Python basics](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Python_Basics.ipynb) and [Jupyter](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Jupyter.ipynb) (optional material)
 - Exercise notebooks: [Exercise_01](https://github.com/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Exercises.ipynb)
 
@@ -53,7 +53,7 @@ Bring your own data (BYOD), if possible!
 
 **Lecture materials**
 
-[Day 2 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
+[Day 2 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
 
 **References**
 
@@ -123,7 +123,7 @@ Using Python in an interactive development environemnt (IDE)
 
 **Lecture materials**
 
-[Day 4 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
+[Day 4 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
 
 **References**
 
@@ -153,7 +153,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 
 **Lecture materials**
 
-[Day 5 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
+[Day 5 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
 
 **References**
 
