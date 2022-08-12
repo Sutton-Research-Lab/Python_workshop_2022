@@ -1,5 +1,5 @@
 # Python workshop 2022
-Course materials for Python workshop 2022 summer
+Course materials for the Python workshop in summer 2022
 
 
 ### Overview of schedule
@@ -10,4 +10,4 @@ Course materials for Python workshop 2022 summer
 ### Day 5: Python software packages for molecules and materials
 
 
-#### Detailed description on each lecture and the associated references and materials are provided on the [workshop website](https://sutton-research-lab.github.io/Python_workshop_2022/)
+#### Detailed descriptions and the associated references and materials are provided on the [workshop website](https://sutton-research-lab.github.io/Python_workshop_2022/)
