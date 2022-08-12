@@ -54,6 +54,7 @@ Bring your own data (BYOD), if possible!
 **Lecture materials**
 
 [Day 2 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
+- Teaching notebooks: [Functional programming](https://nbviewer.org/github.com/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_02/Day_02_Functional_Programming.ipynb) and [data visualization](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_02/Day_02_Data_Visualization.ipynb)
 
 **References**
 
@@ -154,6 +155,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 **Lecture materials**
 
 [Day 5 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
+- Teaching notebooks: [RDKit](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_05/Day_05_RDKit_and_Cheminformatics.ipynb) and [chemistry and materials packages](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_05/Day_05_Chemistry_and_materials.ipynb)
 
 **References**
 
