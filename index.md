@@ -164,7 +164,8 @@ Python packages for molecules and materials, focus on basic data structures and 
 
 1. [RDKit tutorials](https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
 2. [RDKit cookbook](https://www.rdkit.org/docs/Cookbook.html)
-3. Shyue Ping Ong et al., [Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis](https://doi.org/10.1016/j.commatsci.2012.10.028), Computational Materials Science (2013)
-4. [Pymatgen tutorial videos on its Youtube channel](https://www.youtube.com/c/MaterialsProject/videos)
-5. Ask Hjorth Larsen et al., [The atomic simulation environment—a Python library for working with atoms](https://doi.org/10.1088/1361-648X/aa680e), Journal of Physics: Condensed Matter (2017)
-6. [ASE tutorials](https://databases.fysik.dtu.dk/ase/tutorials/tutorials.html) 
+3. Alexandre Varnek eds., [Tutorials in Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119161110), Wiley (2017)
+4. Shyue Ping Ong et al., [Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis](https://doi.org/10.1016/j.commatsci.2012.10.028), Computational Materials Science (2013)
+5. [Pymatgen tutorial videos on its Youtube channel](https://www.youtube.com/c/MaterialsProject/videos)
+6. Ask Hjorth Larsen et al., [The atomic simulation environment—a Python library for working with atoms](https://doi.org/10.1088/1361-648X/aa680e), Journal of Physics: Condensed Matter (2017)
+7. [ASE tutorials](https://databases.fysik.dtu.dk/ase/tutorials/tutorials.html) 
