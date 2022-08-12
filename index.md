@@ -153,7 +153,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 - RDkit ([https://www.rdkit.org/](https://www.rdkit.org/)) and molecular visualization
 - pymatgen ([https://pymatgen.org/](https://pymatgen.org/))
 - ASE ([https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/))
-- molecular visualization in
+- molecular visualization
 
 **Lecture materials**
 
