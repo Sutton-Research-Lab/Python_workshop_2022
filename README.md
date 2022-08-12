@@ -12,4 +12,5 @@ Course materials for the Python workshop in summer 2022
 
 <br>
 <br>
+
 #### Detailed descriptions and the associated references and materials are provided on the [workshop website](https://sutton-research-lab.github.io/Python_workshop_2022/)
