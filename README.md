@@ -2,7 +2,7 @@
 Course materials for Python workshop 2022 summer
 
 
-## Overview of schedule
+### Overview of schedule
 ### Day 1: Python basic concepts, data structures, programming environment
 ### Day 2: Functional programming in Python and data visualization
 ### Day 3: Scientific Python and object-oriented programming in Python
