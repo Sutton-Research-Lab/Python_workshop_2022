@@ -90,6 +90,8 @@ Advanced programming in Python
 **Lecture materials**
 
 [Day 3 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_03)
+- Teaching notebooks: [Advanced programming in Python](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_03/Day_03_Advanced_Programming.ipynb), [scientific Python](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_03/Day_03_Scientific_Python.ipynb), and [tabular data processing](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_03/Day_03_Tabular_Operations.ipynb)
+- Exercise notebooks: [Exercise_03](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_03/Exercise/Exercise_read_PDF_table.ipynb) and its [solution](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_03/Exercise/Exercise_read_PDF_table_with_solution.ipynb)
 
 **References**
 
@@ -125,6 +127,7 @@ Using Python in an interactive development environemnt (IDE)
 **Lecture materials**
 
 [Day 4 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
+- Teaching notebooks: scikit-learn and statistical machine learning, [pytorch and deep learning](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_04/Day_04_Introduction_to_Pytorch.ipynb)
 
 **References**
 
