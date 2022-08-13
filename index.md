@@ -130,7 +130,7 @@ Common machine learning frameworks in Python
 
 1. Fabian Pedregosa et al., [Scikit-learn: Machine Learning in Python](https://dl.acm.org/doi/10.5555/1953048.2078195), Journal of Machine Learning Research (2011)
 2. [Scikit-learn official tutorials](https://scikit-learn.org/stable/tutorial/index.html)
-3. [Andreas Mueller’s scikit-learn tutorial](https://amueller.github.io/sklearn_tutorial/)
+3. [Andreas Mueller’s scikit-learn tutorial](https://github.com/amueller/introduction_to_ml_with_python)
 4. Adam Paszke et al., [PyTorch: an imperative style, high-performance deep learning library](https://dl.acm.org/doi/10.5555/3454287.3455008), NeurIPS (2019)
 5. [Pytorch tutorials](https://brsoff.github.io/tutorials/index.html)
 6. [Awesome python machine learning, curated materials](https://github.com/sorend/awesome-python-machine-learning)
