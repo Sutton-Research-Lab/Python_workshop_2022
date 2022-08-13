@@ -29,7 +29,7 @@ Python basics, programming environment, software repositories
 
 [Day 1 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_01)
 - Teaching notebooks: [Python basics](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Python_Basics.ipynb) and [Jupyter](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Jupyter.ipynb) (optional material)
-- Exercise notebooks: [Exercise_01](https://github.com/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Day_01_Exercises.ipynb)
+- Exercise notebooks: [Exercise_01](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Exercises/Day_01_Practice_Problems.ipynb) and its [solution](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_01/Exercises/Day_01_Practice_Problems_Solutions.ipynb)
 
 **References**
 
@@ -120,10 +120,6 @@ Common machine learning frameworks in Python
 
 - scikit-learn ([https://scikit-learn.org/](https://scikit-learn.org/))
 - pytorch ([https://pytorch.org/](https://pytorch.org/))
-
-Using Python in an interactive development environemnt (IDE)
-
-- brief introduction to Virtual Studio Code
 
 **Lecture materials**
 
