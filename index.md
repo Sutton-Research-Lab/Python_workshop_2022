@@ -127,7 +127,7 @@ Using Python in an interactive development environemnt (IDE)
 **Lecture materials**
 
 [Day 4 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
-- Teaching notebooks: scikit-learn and statistical machine learning, [pytorch and deep learning](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_04/Day_04_Introduction_to_Pytorch.ipynb)
+- Teaching notebooks: [introduction to machine learning with scikit-learn](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_04/Day_04_machine_learning_with_python.ipynb), [pytorch and deep learning](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_04/Day_04_Introduction_to_Pytorch.ipynb)
 
 **References**
 
@@ -158,7 +158,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 **Lecture materials**
 
 [Day 5 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_05)
-- Teaching notebooks: [RDKit](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_05/Day_05_RDKit_and_Cheminformatics.ipynb) and [chemistry and materials packages](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_05/Day_05_Chemistry_and_materials.ipynb)
+- Teaching notebooks: [RDKit](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_05/Day_05_RDKit_and_Cheminformatics.ipynb) and [chemistry and materials packages](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_05/Day_05_Chemistry_and_Materials.ipynb)
 
 **References**
 
