@@ -55,6 +55,7 @@ Bring your own data (BYOD), if possible!
 
 [Day 2 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_02)
 - Teaching notebooks: [Functional programming](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_02/Day_02_Functional_Programming.ipynb) and [data visualization](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_02/Day_02_Data_Visualization.ipynb)
+- Exercise notebooks: [Exercise_02](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_02/Exercises/Day_02_Practice_Problems.ipynb) and its [solution](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_02/Exercises/Day_02_Practice_Problems_Solution.ipynb)
 
 **References**
 
