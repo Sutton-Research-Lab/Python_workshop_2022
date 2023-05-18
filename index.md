@@ -124,7 +124,7 @@ Common machine learning frameworks in Python
 **Lecture materials**
 
 [Day 4 folder](https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04) | [Download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Sutton-Research-Lab/Python_workshop_2022/tree/master/materials/Day_04)
-- Teaching notebooks: [introduction to machine learning with scikit-learn](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_04/Day_04_machine_learning_with_python.ipynb), [pytorch and deep learning](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_04/Day_04_Introduction_to_Pytorch.ipynb)
+- Teaching notebooks: [introduction to machine learning with scikit-learn](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_04/Day_04_Machine_Learning_With_Python.ipynb), [pytorch and deep learning](https://nbviewer.org/github/Sutton-Research-Lab/Python_workshop_2022/blob/master/materials/Day_04/Day_04_Introduction_to_Pytorch.ipynb)
 
 **References**
 
